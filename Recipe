@@ -6,6 +6,9 @@
             <title>How to make fried rice</title>
         </head>
         <body>
+            <div class="container">
+                <h1>How to make fried rice</h1>
+                <p>Fried rice is a popular dish that can be made with a variety of ingredients. This recipe will guide you through the steps to make a delicious and easy fried rice for lunch.</p>
             <h1>Easy lunch</h1>
                 <ol>
                     <li>Prepare the Rice</li>
